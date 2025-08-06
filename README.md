@@ -1,6 +1,6 @@
 ![](https://github.com/waleed-webcoder/waleed-webcoder/blob/main/web-developer-3.webp)
 <h1 align="center">Hi 👋, I'm Waleed Shoukat</h1>
-<h3 align="center">A passionate Mern Stack developer from Pakistan</h3>
+<h3 align="center">A Full Stack developer from Pakistan</h3>
 <img align="right" width="450" alt="coding" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waleed-webcoder&label=Profile%20views&color=0e75b6&style=flat" alt="waleed-webcoder" /> </p>
 
