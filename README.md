@@ -15,7 +15,7 @@
   <a href="https://waleed-shoukat-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Website-2962FF?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0D1117" height="35" />
   </a>
-  <a href="https://linkedin.com/in/waleed-shoukat-2430a12ba">
+  <a href="https://www.linkedin.com/in/waleed-shoukat-android-developer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" height="35" />
   </a>
 </div>
@@ -27,7 +27,7 @@
 <div align="center">
   <b>"I architect digital futures, transforming complex requirements into smooth, crash-free mobile ecosystems."</b>
   <br/><br/>
-  With <b>1.5+ years at Webtech.dev</b>, I've shipped 5+ SaaS apps, maintaining 100% job success as a Clean Architecture Specialist. My work delivers authority, precision, and high-value consulting for elite Android solutions.
+  With <b>2+ years of indudtry experience</b>, I've shipped 5+ SaaS apps, maintaining 100% job success as a Clean Architecture Specialist. My work delivers authority, precision, and high-value consulting for elite Android solutions.
 </div>
 
 <br/>
