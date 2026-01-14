@@ -12,7 +12,7 @@
   <a href="mailto:waleed.webcoder@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-2979FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" height="35" />
   </a>
-  <a href="https://waleed-shoukat-portfolio.vercel.app/">
+  <a href="https://waleedshoukat.tech/">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Website-2962FF?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0D1117" height="35" />
   </a>
   <a href="https://www.linkedin.com/in/waleed-shoukat-android-developer">
