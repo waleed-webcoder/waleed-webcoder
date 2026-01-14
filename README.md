@@ -1,75 +1,82 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00DC82&height=220&section=header&text=Waleed%20Shoukat&fontSize=80&fontAlignY=35&desc=Native%20Android%20Developer%20%7C%20Kotlin%20%26%20Compose%20Expert&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Waleed%20Shoukat&fontSize=80&fontAlignY=35&desc=Native%20Android%20Developer%20(Kotlin%20%7C%20Compose)&descAlignY=65&descAlign=50&fontColor=ffffff" width="100%" alt="Header"/>
 </div>
 
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Building+Scalable+Android+Applications;Expert+in+Kotlin+%26+Jetpack+Compose;1.5%2B+Years+Professional+Experience;Freelance+Software+Engineer)](https://git.io/typing-svg)
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2E7D32&center=true&vCenter=true&width=600&lines=Native+Android+App+Developer;Expert+in+Kotlin+%26+Jetpack+Compose;Building+Scalable+SaaS+Applications;Clean+Architecture+%26+Solid+Principles" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
-  
   <a href="https://linkedin.com/in/waleed-shoukat-2430a12ba" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a> 
   <a href="mailto:waleed.webcoder@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
   <a href="https://waleed-shoukat-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-222222?style=for-the-badge&logo=vercel&logoColor=white" height="30" />
   </a>
-
 </div>
 
 <hr/>
 
-### 👨‍💻 About Me
-
-I am a passionate **Native Android Developer** based in Pakistan with a strong foundation in Computer Science (BSCS, COMSATS Islamabad). 
-
-I specialize in building modern, high-performance mobile applications using **Kotlin** and **Jetpack Compose**. With over **1.5 years of professional experience** (formerly at Webtech.dev), I have shipped complex production apps and tackled challenging problems in state management, UI/UX, and backend integration.
-
-* 🔭 **Currently working on:** Advanced Freelance Android Projects & Custom UI Libraries.
-* 📱 **Top Projects:** Creator of **Arez.io**, **EarnFlex**, and **Albinaya**.
-* ⚡ **Specialty:** Migrating legacy XML apps to **Jetpack Compose**.
-* 👯 **Open for:** Freelance gigs, Remote contracts, and Collaboration.
-
----
-
-### 🛠️ Tech Stack & Arsenal
-
+<h3 align="center">⚡ Professional Highlights</h3>
 <div align="center">
-
-| **Core Android** | **Architecture & Tools** | **Backend & Others** |
-| :---: | :---: | :---: |
-| ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) | ![Jetpack Compose](https://img.shields.io/badge/Android%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white) | ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) |
-| ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
-| ![XML](https://img.shields.io/badge/XML-Orange?style=for-the-badge&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
-| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
-
+  <img src="https://img.shields.io/badge/Industry_Experience-2%2B_Years-00C853?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Live_SaaS_Apps-5%2B_Shipped-00C853?style=for-the-badge&logo=googleplay&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-MVVM_%26_Clean-00C853?style=for-the-badge&logo=codereview&logoColor=white" />
+  <img src="https://img.shields.io/badge/Job_Success-100%25-00C853?style=for-the-badge&logo=upwork&logoColor=white" />
 </div>
 
+<br/>
+
+<h2 align="center">👨‍💻 The Android Specialist</h2>
+
+<p align="center">
+  I am a dedicated <b>Native Android Developer</b> specializing in the modern Android stack. I don't just build apps; I engineer mobile experiences that are scalable, maintainable, and beautiful.
+  <br/><br/>
+  <b>My Core Focus:</b> Migrating legacy XML projects to <b>Jetpack Compose</b> and building complex SaaS solutions from scratch.
+</p>
+
 <div align="center">
-  <b>📚 Libraries I use daily:</b><br/>
-  Retrofit • Dagger Hilt • Coroutines • Flow • Room DB • Navigation Component
+  <table>
+    <tr>
+      <td align="center"><b>🏠 Arez.io</b></td>
+      <td align="center"><b>💰 EarnFlex</b></td>
+      <td align="center"><b>🏗️ Albinaya</b></td>
+    </tr>
+    <tr>
+      <td align="center">Real Estate SaaS</td>
+      <td align="center">Earning Platform</td>
+      <td align="center">Construction Mgt</td>
+    </tr>
+  </table>
 </div>
 
----
+<br/>
 
-### 📊 GitHub Analytics
-
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waleed-webcoder&show_icons=true&theme=ocean_blue&hide_border=true&bg_color=0D1117" alt="waleed-webcoder" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleed-webcoder&layout=compact&theme=ocean_blue&hide_border=true&bg_color=0D1117" alt="waleed-webcoder" width="48%" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,android,gradle,firebase,mysql,nodejs,git,github,figma,postman,idea&perline=6&theme=dark" />
 </div>
 
+<br/>
+<br/>
+
+<h2 align="center">📊 GitHub Performance</h2>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waleed-webcoder&theme=ocean_blue&hide_border=true&background=0D1117" alt="waleed-webcoder" />
+  <img src="https://github-readme-stats.vercel.app/api?username=waleed-webcoder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C853&icon_color=00C853&count_private=true" alt="stats" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleed-webcoder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C853" alt="languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=waleed-webcoder&label=Profile%20Views&color=00DC82&style=for-the-badge" alt="waleed-webcoder" />
+  <img src="https://komarev.com/ghpvc/?username=waleed-webcoder&label=Profile%20Views&color=00C853&style=for-the-badge" alt="views" />
 </div>
